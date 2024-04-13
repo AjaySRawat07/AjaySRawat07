@@ -27,4 +27,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ajaySingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajay-singh-rawat-736044253/)](https://www.linkedin.com/in/ajay-singh-rawat-736044253/) [![Twitter Badge](https://img.shields.io/badge/-@ajay-singh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AjaySin37259001)](https://twitter.com/AjaySin37259001)
+[![Linkedin Badge](https://img.shields.io/badge/-ajaySingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajay-singh-rawat-736044253/)](https://www.linkedin.com/in/ajay-singh-rawat-736044253/) [![Twitter Badge](https://img.shields.io/badge/-@ajay-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AjaySin37259001)](https://twitter.com/AjaySin37259001)
